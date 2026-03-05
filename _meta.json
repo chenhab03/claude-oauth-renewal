@@ -1,4 +1,6 @@
 {
+  "ownerId": "k97e8svw23h15r3yjg7ep0fg6982adgk",
   "slug": "claude-oauth-renewal",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "publishedAt": 1772727600000
 }
